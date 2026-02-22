@@ -1,6 +1,6 @@
 # Hi there, I'm Fahad 👋
 
-I'm a **Data Science Manager** passionate about transforming raw data into meaningful insights. I work across the full analytics stack — from data generation and wrangling to interactive dashboards and machine learning.
+**Data Science Manager** passionate about leveraging data to drive strategic business outcomes. 
 
 ---
 
