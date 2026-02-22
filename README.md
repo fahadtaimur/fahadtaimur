@@ -1,6 +1,6 @@
 # Hi there, I'm Fahad 👋
 
-I'm a **data analyst & data engineer** passionate about transforming raw data into meaningful insights. I work across the full analytics stack — from data generation and wrangling to interactive dashboards and machine learning.
+I'm a **Data Science Manager** passionate about transforming raw data into meaningful insights. I work across the full analytics stack — from data generation and wrangling to interactive dashboards and machine learning.
 
 ---
 
@@ -42,19 +42,15 @@ I'm a **data analyst & data engineer** passionate about transforming raw data in
 |---------|-------------|-------|
 | [synthetic-general-ledger](https://github.com/fahadtaimur/synthetic-general-ledger) | Synthetic accounting data generator for ML pipelines | Python, Jupyter |
 | [public-general-ledger-analysis](https://github.com/fahadtaimur/public-general-ledger-analysis) | Government GL data exploration & analysis | Python, DuckDB, AWS |
-| [Monte Carlo Simulation](https://github.com/fahadtaimur/Monte_Carlo_Simulation) | Interactive Monte Carlo simulator | R, Shiny |
 | [COVID-19 Dashboard](https://github.com/fahadtaimur/covid19_dashboard) | Country-level COVID-19 data dashboard with leaflet map | R, Shiny |
-| [PowerBI REST API Reference](https://github.com/fahadtaimur/PowerBI-RestAPI-Reference) | Guide to POST requests in Power Query M | Power BI, M |
 
 ---
 
 ## 💬 Ask me about
 
-- Financial data analytics & general ledger analysis
-- Synthetic data generation for ML
-- Building dashboards with Shiny or Django + Plotly
-- DuckDB for analytical workloads
-- Power BI & Power Query M
+- Financial data analytics & general ledger analytics
+- Building Financial Data Platforms and the associated benefits and challenges
+- Synthetic (realistic) accounting focused data generation for ML
 
 ---
 
