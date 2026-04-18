@@ -4,12 +4,13 @@
 
 ---
 
-## 🔭 What I'm working on
+## What I'm working on
 
-- 🧾 **[Synthetic General Ledger Generator](https://github.com/fahadtaimur/synthetic-general-ledger)** — generating realistic accounting data for ML and analytics use cases
-- 📊 **[Public General Ledger Analysis](https://github.com/fahadtaimur/public-general-ledger-analysis)** — analyzing Oklahoma government financial data using DuckDB & AWS
+- 🧾 **[Synthetic General Ledger Generator](https://github.com/fahadtaimur/synthetic-general-ledger)** — Realistic accounting data generation for ML and audit analytics use cases (in progress)
+- 📊 **[Public General Ledger Analysis](https://github.com/fahadtaimur/public-general-ledger-analysis)** — Serverless AWS data pipeline — ECS Fargate ingestion, Glue transformation, 
+Athena serving layer, Step Functions orchestration, CloudFormation IaC, CDC-aware incremental runs via DynamoDB metadata.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -33,16 +34,6 @@
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [synthetic-general-ledger](https://github.com/fahadtaimur/synthetic-general-ledger) | Synthetic accounting data generator for ML pipelines | Python, Jupyter |
-| [public-general-ledger-analysis](https://github.com/fahadtaimur/public-general-ledger-analysis) | Government GL data exploration & analysis | Python, DuckDB, AWS |
-| [COVID-19 Dashboard](https://github.com/fahadtaimur/covid19_dashboard) | Country-level COVID-19 data dashboard with leaflet map | R, Shiny |
 
 ---
 
