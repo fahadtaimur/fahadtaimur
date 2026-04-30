@@ -7,7 +7,7 @@
 ## What I'm working on
 
 - 🧾 **[Synthetic General Ledger Generator](https://github.com/fahadtaimur/synthetic-general-ledger)** — Realistic accounting data generation for ML and audit analytics use cases (in progress)
-- 📊 **[Public General Ledger Analysis](https://github.com/fahadtaimur/public-general-ledger-analysis)** — Serverless AWS data pipeline — ECS Fargate ingestion, Glue transformation, 
+- 📊 **[Public General Ledger Data Platform](https://github.com/fahadtaimur/public-general-ledger-data-platform)** — Serverless AWS data pipeline — ECS Fargate ingestion, Glue transformation, 
 Athena serving layer, Step Functions orchestration, CloudFormation IaC, CDC-aware incremental runs via DynamoDB metadata.
 
 ## Tech Stack
